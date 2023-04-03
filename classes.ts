@@ -2,7 +2,7 @@ export class Aluno{
     constructor(
         public nome: string,
         public idade: number,
-        private cpf: string,
+        private cpf?: string,
         public nota: number = 0,        
     ){}
 }

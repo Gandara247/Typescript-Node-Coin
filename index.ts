@@ -1,4 +1,4 @@
-import { Aluno, Materia, Materia } from "./classes";
+import { Aluno, Materia} from "./classes";
 
 const aluno = new Aluno ("Hacker Cyberpunk", 8);
 const materia = new Materia("Typescript", 50);

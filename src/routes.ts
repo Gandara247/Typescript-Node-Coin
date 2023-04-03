@@ -6,4 +6,4 @@ const router = express.Router();
 router.get("/get-coins", CoinController.getAvailableCoins)
 router.get("/converter-moeda/:criptomoeda/:moeda?", CoinController.convertCoin);
 
-export = router;
+export default router;
