@@ -1,1 +1,1 @@
-# Typescript-Node-Coin
+# TypeScript-Node-Coin
